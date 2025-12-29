@@ -1,6 +1,7 @@
 # 📝 To-Do List Application
 
 A simple, clean, and beginner-friendly **To-Do List web application** built using **HTML, CSS, and JavaScript**. This project helps users manage daily tasks efficiently while demonstrating core front-end development concepts.
+🚀 Beginner-friendly JavaScript project.
 
 ---
 
