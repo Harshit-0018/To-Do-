@@ -93,7 +93,7 @@ This project is open-source and available under the **MIT License**.
 ### 👨‍💻 Author
 
 **Harshit Singh**
-Aspiring Software Engineer | DSA Enthusiast | Frontend Learner
+Aspiring Software Engineer | Frontend Learner
 
 ---
 
